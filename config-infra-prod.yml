@@ -18,5 +18,5 @@ variables:
   ado_service_connection_aml_ws: Azure-ARM-Prod
 
   # For pipeline reference
-  resource_group: <enter-your-resource-group-name>
-  aml_workspace: <enter-your-aml-workspace-name>
+  resource_group: gl-oct24-pro
+  aml_workspace: gl-oct24-pro
