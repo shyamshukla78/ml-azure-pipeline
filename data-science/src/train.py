@@ -14,7 +14,7 @@ import mlflow.sklearn
 from matplotlib import pyplot as plt
 
 def parse_args():
-    '''Parse input arguments'''
+    '''Parse input arguments '''
 
     parser = argparse.ArgumentParser("train")
     parser.add_argument("--train_data", type=str, help="Path to train dataset")
