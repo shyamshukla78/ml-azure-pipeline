@@ -1,7 +1,7 @@
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT License.
 """
-Registers the best-trained ML model from the sweep job.
+Registers the best-trained ML model from the sweep job...
 """
 
 import argparse
